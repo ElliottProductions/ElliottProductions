@@ -1,1 +1,1 @@
-Fullstack web developer proficient in: HTML, CSS, Javascript, React, RESTful APIs, PostgreSQL.
+Fullstack web developer proficient in: HTML, CSS, Javascript, React, RESTful APIs, PostgreSQL, Jest.
